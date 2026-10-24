@@ -10,10 +10,10 @@ overpayment = total_payment - debt
 
 
 print('=' * 50)
-print(f"Месячная процентная ставка: {monthly_rate_percent:.2f} %")
-print(f"Ежемесячный платеж: {monthly_payment:.2f} ₽")
-print(f"Общая сумма выплат: {total_payment:.2f} ₽")
-print(f"Переплата по процентам: {overpayment:.2f} ₽")
+print(f"Месячная процентная ставка: {round(monthly_rate_percent, 2)} %")
+print(f"Ежемесячный платеж: {round(monthly_payment, 2)} ₽")
+print(f"Общая сумма выплат: {round(total_payment, 2)} ₽")
+print(f"Переплата по процентам: {round(overpayment, 2)} ₽")
 print('=' * 50)
 
 
