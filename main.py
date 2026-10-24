@@ -16,4 +16,5 @@ print(f"Общая сумма выплат: {round(total_payment, 2)} ₽")
 print(f"Переплата по процентам: {round(overpayment, 2)} ₽")
 print('=' * 50)
 
+print(Lol)
 
