@@ -17,4 +17,11 @@ print(f"Переплата по процентам: {round(overpayment, 2)} ₽"
 print('=' * 50)
 
 print(Lol)
+print(Lol)
+print(Lol)
+print(Lol)
+print(Lol)
+print(Lol)
+print(Lol)
+
 
